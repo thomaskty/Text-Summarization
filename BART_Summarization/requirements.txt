@@ -1,0 +1,8 @@
+transformers
+accelerate
+datasets
+bertviz
+umap-learn
+sentencepiece
+urllib3
+py7zrcon
